@@ -43,7 +43,7 @@ void Euler3::showResult()
 bool Euler3::findPrimes(unsigned long long int index)
 {
 	bool result = true;
-	for (int i = 2; i < sqrt(index); i++)
+	for (int i = 2; i <= sqrt(index); i++)
 	{
 		if (index % i == 0)
 		{
