@@ -3,9 +3,9 @@
 class Euler8 :	public Euler
 {
 private:
-	string str;
 	fstream file;
-
+	string token, str;
+	int max;
 public:
 	Euler8() {};
 	~Euler8() {};

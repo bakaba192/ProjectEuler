@@ -1,2 +1,5 @@
 C:\Users\SGA\Documents\ProjectEuler\Euler1\.vs
 C:\Users\SGA\Documents\ProjectEuler\Euler1\.vs\Euler1\v15\ipch\AutoPCH\3dc68c0fdc49e760\EULER5.ipch
+*.ipch
+*.db
+*.opendb
