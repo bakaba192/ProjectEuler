@@ -3,3 +3,8 @@ C:\Users\SGA\Documents\ProjectEuler\Euler1\.vs\Euler1\v15\ipch\AutoPCH\3dc68c0fd
 *.ipch
 *.db
 *.opendb
+*.obj
+*.exe
+*.ipdb
+*.log
+*.pdb
