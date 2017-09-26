@@ -8,8 +8,8 @@
 //#include "Euler6.h"
 //#include "Euler7.h"
 //#include "Euler8.h"
-#include "Euler9.h"
-
+//#include "Euler9.h"
+#include "Euler10.h"
 using namespace std;
 
 void main()
@@ -17,7 +17,7 @@ void main()
 	DWORD stTime = timeGetTime();
 	cout << "½ÃÀÛ" << endl;
 
-	Euler* Euler = new Euler9;
+	Euler* Euler = new Euler10;
 
 	Euler->init();
 
