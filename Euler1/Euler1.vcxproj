@@ -151,6 +151,7 @@
     <ClCompile Include="Euler6.cpp" />
     <ClCompile Include="Euler7.cpp" />
     <ClCompile Include="Euler8.cpp" />
+    <ClCompile Include="Euler9.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -163,6 +164,7 @@
     <ClInclude Include="Euler6.h" />
     <ClInclude Include="Euler7.h" />
     <ClInclude Include="Euler8.h" />
+    <ClInclude Include="Euler9.h" />
     <ClInclude Include="stdHeader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

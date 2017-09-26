@@ -1,5 +1,6 @@
 #pragma once
 #include "stdHeader.h"
+#include <math.h>
 
 class Euler
 {
