@@ -146,6 +146,7 @@
     <ClCompile Include="Euler1.cpp" />
     <ClCompile Include="Euler10.cpp" />
     <ClCompile Include="Euler11.cpp" />
+    <ClCompile Include="Euler12.cpp" />
     <ClCompile Include="Euler2.cpp" />
     <ClCompile Include="Euler3.cpp" />
     <ClCompile Include="Euler4.cpp" />
@@ -161,6 +162,7 @@
     <ClInclude Include="Euler1.h" />
     <ClInclude Include="Euler10.h" />
     <ClInclude Include="Euler11.h" />
+    <ClInclude Include="Euler12.h" />
     <ClInclude Include="Euler2.h" />
     <ClInclude Include="Euler3.h" />
     <ClInclude Include="Euler4.h" />

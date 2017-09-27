@@ -11,6 +11,8 @@ private:
 
 	long long int sum;
 
+	bool* eratos_arr;
+
 public:
 	Euler10() {};
 	~Euler10() {};
